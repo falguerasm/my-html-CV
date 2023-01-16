@@ -1,2 +1,2 @@
-# my-html-CV
- An exercise in HTML
+# My HTML CV
+ An exercise in HTML and copywriting
